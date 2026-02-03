@@ -5,7 +5,7 @@
   
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Limnosa&layout=compact&theme=tokyonight)
+[//]: # "![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Limnosa&layout=compact&theme=tokyonight)"
 
 ---
 
